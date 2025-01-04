@@ -2,7 +2,7 @@
 comments: true
 ---
 
-This document shows you how to set up and test a native token in a CDK stack.
+This document shows you how to set up and test a native token in the BDK stack.
 
 ## Summary
 
