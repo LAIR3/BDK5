@@ -95,7 +95,7 @@ curl -L https://foundry.paradigm.xyz | bash
 source $HOME/.bashrc
 foundryup
 cd BDK5
-git config --global user.email "codephreak@dmg.finance"
+git config --global user.email "codephreak@pythai,net"
 git config --global user.name "Professor-Codephreak"
 forge init --force
 ```
